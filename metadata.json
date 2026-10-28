@@ -1,0 +1,8 @@
+{
+  "name": "HotelPro - Hotel Booking & Management",
+  "description": "Complete hotel booking and management solution with real-time room inventory, guest check-in/out, billing, and housekeeping management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
